@@ -1,0 +1,80 @@
+.top{
+    width: auto;
+    height: 50px;
+    background-color:#201E20;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-right: 0;
+
+}
+.text{
+    color: aliceblue;
+    
+}
+.middle1{
+    height: 400px;
+    width: 100%;
+    background-color: #317773;
+}
+.middle2{
+    height: 400px;
+    width: 100%;
+    background-color: #E2D1F9;
+    margin-top: -8px;
+
+}
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+.name{
+    height: 50px;
+    padding-top: 5px;
+    float: left;
+    margin-top: -31px;
+}
+.picture{
+        height: 279px;
+        width: 291px;
+        float: left;
+        margin-left: 37px;
+    margin-top: 51px;
+}
+.right{
+    float: right;
+    padding-right: 366px;
+    padding-top: 80px;
+}
+.left{
+    float: left;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.text2{
+    font-size: 33px;
+}
+.text3{
+    font-size: 21px;
+}
+.text4{
+    color: #E2D1F9;
+    margin-top: -31px;
+    text-align: center;
+    padding-top: 5px;
+}
+.fb{
+    height: 29px;
+    width: 29px;
+    margin-left: 573px;
+}
+.insta{
+    height: 29px;
+    width: 29px;
+    margin-left: 41px;
+}
+.twitter{
+    height: 29px;
+    width: 29px;
+    margin-left: 43px;
+}
